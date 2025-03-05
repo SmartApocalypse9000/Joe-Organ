@@ -14,4 +14,10 @@
 - https://labs.spitfireaudio.com/packs/pipe-organ
 - https://github.com/svenmeier/jorgan/
 - https://www.modartt.com/organteq_overview?ref=cGFnZT1vcmdhbnRlcSZleHQ9
+- https://midiorgelprojekt.wordpress.com/
+- https://www.pausch-e.com/shop/Midi-Scan-Manual-p174732625
+- https://www.pausch-e.com/shop/Pistons-c43290610
+- https://www.pausch-e.com/shop/Schwelltritte-Walzen-c45600255
+- WALZE LUL
+- https://www.hauptwerkshop.de/shop/samplesets/sonus-paradisi/claviorganum/
 - 
