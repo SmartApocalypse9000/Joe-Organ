@@ -1,0 +1,17 @@
+- https://github.com/GrandOrgue/grandorgue
+- https://www.midiboutique.com/b4ce1x
+- https://www.openpipes.org/midi-controller-board-version-2/
+- https://www.openpipes.org/midi-keyboard-encoder/
+- https://www.openpipes.org/analog-sliders/
+- https://www.openpipes.org/toe-piston/
+- https://github.com/shanteacontrols/OpenDeck
+- https://www.lumissil.com/applications/industrial/appliance/is31io7326
+- https://github.com/pedalboard
+- https://www.elk.audio/
+- https://martindenboer.nl/project-replica-saint-sulpice/
+- https://jackaudio.org/faq/jack_on_windows.html
+- https://hexler.net/touchosc
+- https://labs.spitfireaudio.com/packs/pipe-organ
+- https://github.com/svenmeier/jorgan/
+- https://www.modartt.com/organteq_overview?ref=cGFnZT1vcmdhbnRlcSZleHQ9
+- 
