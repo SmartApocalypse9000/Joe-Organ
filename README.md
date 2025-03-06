@@ -69,3 +69,16 @@
 ### UI
 - https://hexler.net/touchosc
 - 
+
+### Functions
+- motor fader
+- Metronom mit extea button für takt
+- umblätter key
+- cam + Foot Cam
+- LEDs
+- Mixer Playback 
+- mixer einzelen register (motor fader)
+- LED register 
+- record button 
+- lautstärke mit LED, evrl soezial hutton
+- pitch xontrkl
